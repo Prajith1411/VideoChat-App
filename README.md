@@ -31,11 +31,13 @@
 # DEVELOPED BY
 
 ### Name: RAVIPATI AKHIL  
-[GitHub](https://github.com/akhilravipati019)
 Email: ravipatiakhil5656@gmail.com  
+<br>
+[GitHub](https://github.com/akhilravipati019)
 
 ---
 
 ### Name: REDDY SIVA PRAJITH  
-[GitHub](https://github.com/Prajith1411)
 Email: reddysivaprajith1411@gmail.com
+<br>
+[GitHub](https://github.com/Prajith1411)
