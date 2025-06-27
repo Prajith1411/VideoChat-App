@@ -29,7 +29,6 @@
   npm run dev
 ```
 # DEVELOPED BY
-## DEVELOPED BY
 
 ### Name: RAVIPATI AKHIL  
 Email: ravipatiakhil5656@gmail.com  
