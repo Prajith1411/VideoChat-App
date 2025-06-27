@@ -32,7 +32,6 @@
 
 ### Name: RAVIPATI AKHIL  
 Email: ravipatiakhil5656@gmail.com  
-<br>
 [GitHub](https://github.com/akhilravipati019)
 
 ---
