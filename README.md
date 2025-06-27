@@ -38,5 +38,5 @@ Email: ravipatiakhil5656@gmail.com
 ---
 
 ### Name: R PRAJITH  
-Email:  
+Email: reddysivaprajith1411@gmail.com
 [GitHub](https://github.com/Prajith1411)
