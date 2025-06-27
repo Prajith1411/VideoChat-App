@@ -142,7 +142,7 @@ passport.deserializeUser(function(obj, cb) {
 });
 const CALLBACK_URL =
   process.env.NODE_ENV === 'production'
-    ? 'https://videochat-app-emx7.onrender.com//auth/google/callback'
+    ? 'https://videochat-app-6ss7.onrender.com/auth/google/callback'
     : 'http://localhost:3030/auth/google/callback';
 const GoogleStrategy = require('passport-google-oauth').OAuth2Strategy;
 const GOOGLE_CLIENT_ID = '912338031006-042ul6dqblg2p88efp2m3evmrj3s4fk9.apps.googleusercontent.com';
