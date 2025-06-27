@@ -29,15 +29,14 @@
   npm run dev
 ```
 # DEVELOPED BY
-<span>Name : RAVIPATI AKHIL </span>
-<br>
-<span>Email : ravipatiakhil5656@gmail.com</span>
-<br>
-<span>GitHub&#8658;</span> <a href="https://github.com/akhilravipati019" target="blank">GitHub</a>
-<br>
-<span>Name : R PRAJITH</span>
-<br>
-<span>Email : </span>
-<br>
-<span>GitHub&#8658;</span> <a href="https://github.com/Prajith1411" target="blank">GitHub</a>
-<br>
+## DEVELOPED BY
+
+### Name: RAVIPATI AKHIL  
+Email: ravipatiakhil5656@gmail.com  
+[GitHub](https://github.com/akhilravipati019)
+
+---
+
+### Name: R PRAJITH  
+Email:  
+[GitHub](https://github.com/Prajith1411)
